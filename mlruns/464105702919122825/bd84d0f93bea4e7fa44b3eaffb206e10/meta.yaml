@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/464105702919122825/bd84d0f93bea4e7fa44b3eaffb206e10/artifacts
+end_time: 1766504188896
+entry_point_name: ''
+experiment_id: '464105702919122825'
+lifecycle_stage: active
+run_id: bd84d0f93bea4e7fa44b3eaffb206e10
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766496213691
+status: 4
+tags: []
+user_id: ignatio27

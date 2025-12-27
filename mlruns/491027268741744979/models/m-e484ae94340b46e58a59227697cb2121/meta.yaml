@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ignatio27/unik/fish_classification/mlruns/491027268741744979/models/m-e484ae94340b46e58a59227697cb2121/artifacts
+creation_timestamp: 1766580726824
+experiment_id: '491027268741744979'
+last_updated_timestamp: 1766580731833
+model_id: m-e484ae94340b46e58a59227697cb2121
+model_type: null
+name: model
+source_run_id: 728cab60553e484aa427f47a95d9ac2d
+status: 2
+status_message: null

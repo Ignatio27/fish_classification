@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/83e469d829794cd2b15d4a4db9eacdcb/artifacts
+end_time: 1766492313343
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: 83e469d829794cd2b15d4a4db9eacdcb
+run_name: worried-duck-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766492012336
+status: 4
+tags: []
+user_id: ignatio27

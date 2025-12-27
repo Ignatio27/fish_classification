@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/0e8d87b4ed8246df838a23e4aada7260/artifacts
+end_time: 1766440407218
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: 0e8d87b4ed8246df838a23e4aada7260
+run_name: dashing-cat-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766440407208
+status: 4
+tags: []
+user_id: ignatio27

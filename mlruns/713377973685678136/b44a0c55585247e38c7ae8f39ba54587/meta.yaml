@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/b44a0c55585247e38c7ae8f39ba54587/artifacts
+end_time: 1766494840279
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: b44a0c55585247e38c7ae8f39ba54587
+run_name: rogue-bear-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766492401794
+status: 4
+tags: []
+user_id: ignatio27

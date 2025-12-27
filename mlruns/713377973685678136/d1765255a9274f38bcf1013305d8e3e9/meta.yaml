@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/d1765255a9274f38bcf1013305d8e3e9/artifacts
+end_time: 1766477581563
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: d1765255a9274f38bcf1013305d8e3e9
+run_name: victorious-foal-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766473354735
+status: 4
+tags: []
+user_id: ignatio27

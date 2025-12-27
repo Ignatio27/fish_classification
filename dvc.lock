@@ -1,0 +1,108 @@
+schema: '2.0'
+stages:
+  prepare_data:
+    cmd: python prepare_data.py
+    deps:
+    - path: data/goldfish/
+      hash: md5
+      md5: b5a46fadc4f8220f0f3fd13b040b0528.dir
+      size: 73433402
+      nfiles: 300
+    - path: data/perch/
+      hash: md5
+      md5: 5fec5bb2bc64284f8e3323b973b0ff08.dir
+      size: 85732625
+      nfiles: 300
+    - path: data/pike/
+      hash: md5
+      md5: 16ccf581a997f18c946224601b28a9c6.dir
+      size: 96633547
+      nfiles: 300
+    - path: data/smelt/
+      hash: md5
+      md5: 8a7cd4ceda48a074c4e46d14e04d98bf.dir
+      size: 84306723
+      nfiles: 300
+    - path: data/zander/
+      hash: md5
+      md5: 565816240c594826cb413c8d650ef293.dir
+      size: 93231328
+      nfiles: 300
+    outs:
+    - path: data/processed/
+      hash: md5
+      md5: 578883d1401296e8cc723c87a6e77a0d.dir
+      size: 112251
+      nfiles: 3
+  train:
+    cmd: python train.py
+    deps:
+    - path: data/processed/train.csv
+      hash: md5
+      md5: f000f4b191469369bcaea8729a17dede
+      size: 78557
+    - path: data/processed/val.csv
+      hash: md5
+      md5: 2842d5869f66d1517a44d8554ff5339b
+      size: 16847
+    - path: train.py
+      hash: md5
+      md5: 58e18542acede1d4323ddff4cb718bf4
+      size: 9780
+    params:
+      params.yaml:
+        BATCH_SIZE: 8
+        FINETUNE_EPOCHS: 20
+        FINETUNE_LR: 0.0002
+        IMAGE_SIZE: 160
+        SEED: 42
+        WARMUP_EPOCHS: 3
+        WARMUP_LR: 0.001
+        WEIGHT_DECAY: 0.01
+    outs:
+    - path: models/best_model.pth
+      hash: md5
+      md5: e6ded3ab363062e1159a2a59f6750086
+      size: 44794187
+    - path: models/metadata.json
+      hash: md5
+      md5: 9cf3550a98b6fba89cda22fdd524d9b4
+      size: 166
+    - path: models/metrics.json
+      hash: md5
+      md5: 7982440974a3523fa610faf5e91d23d4
+      size: 168
+  index_images:
+    cmd: python index_images.py
+    deps:
+    - path: data/goldfish/
+      hash: md5
+      md5: b5a46fadc4f8220f0f3fd13b040b0528.dir
+      size: 73433402
+      nfiles: 300
+    - path: data/perch/
+      hash: md5
+      md5: 5fec5bb2bc64284f8e3323b973b0ff08.dir
+      size: 85732625
+      nfiles: 300
+    - path: data/pike/
+      hash: md5
+      md5: 16ccf581a997f18c946224601b28a9c6.dir
+      size: 96633547
+      nfiles: 300
+    - path: data/smelt/
+      hash: md5
+      md5: 8a7cd4ceda48a074c4e46d14e04d98bf.dir
+      size: 84306723
+      nfiles: 300
+    - path: data/zander/
+      hash: md5
+      md5: 565816240c594826cb413c8d650ef293.dir
+      size: 93231328
+      nfiles: 300
+    outs:
+    - path: qdrant_storage/
+      hash: md5
+      md5: 87fab45a594c7c273564516873b2682e.dir
+      size: 7758348
+      nfiles: 3

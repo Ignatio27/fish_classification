@@ -1,0 +1,9 @@
+{
+  "best_val_f1": 0.747687568675383,
+  "warmup_epochs": 3,
+  "finetune_epochs": 20,
+  "total_epochs": 23,
+  "final_lr": 0.0002,
+  "num_train": 1050,
+  "num_val": 225
+}

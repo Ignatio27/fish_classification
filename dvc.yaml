@@ -1,0 +1,48 @@
+stages:
+  prepare_data:
+    cmd: python prepare_data.py
+    deps:
+      - data/goldfish/
+      - data/pike/
+      - data/smelt/
+      - data/perch/
+      - data/zander/
+    outs:
+      - data/processed/:
+          cache: false
+
+  train:
+    cmd: python train.py
+    deps:
+      - train.py
+      - data/processed/train.csv
+      - data/processed/val.csv
+    params:
+      - SEED
+      - IMAGE_SIZE
+      - BATCH_SIZE
+      - WARMUP_EPOCHS
+      - FINETUNE_EPOCHS
+      - WARMUP_LR
+      - FINETUNE_LR
+      - WEIGHT_DECAY
+    outs:
+      - models/best_model.pth:
+          cache: false
+      - models/metadata.json:
+          cache: false
+    metrics:
+      - models/metrics.json:
+          cache: false
+
+  index_images:
+    cmd: python index_images.py
+    deps:
+      - data/goldfish/
+      - data/pike/
+      - data/smelt/
+      - data/perch/
+      - data/zander/
+    outs:
+      - qdrant_storage/:
+          cache: false

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/fe657d6fb91b469fa757edfe6fb277b4/artifacts
+end_time: 1766487363729
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: fe657d6fb91b469fa757edfe6fb277b4
+run_name: bustling-duck-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766478554562
+status: 4
+tags: []
+user_id: ignatio27

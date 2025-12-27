@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/09e540dabcd44c2a828ab45ecba827d0/artifacts
+end_time: 1766440407739
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: 09e540dabcd44c2a828ab45ecba827d0
+run_name: dazzling-carp-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766440403577
+status: 4
+tags: []
+user_id: ignatio27

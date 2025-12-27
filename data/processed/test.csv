@@ -1,264 +1,226 @@
-image_path,label,species_latin,taxon_id
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0301.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0246.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0226.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0182.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0130.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0126.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0324.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0143.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0273.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0260.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0215.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0345.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0095.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0102.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0100.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0031.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0300.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Esox_lucius/Esox_lucius_0147.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0162.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0060.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0260.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0188.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0105.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0254.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0004.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0293.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0246.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0302.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0310.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0281.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0088.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0068.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0094.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0045.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0246.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0251.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0332.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0199.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0226.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0042.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Carassius_auratus/Carassius_auratus_0105.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0271.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0110.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0053.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0019.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0179.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0095.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0292.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0097.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0264.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0174.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0196.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0293.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0263.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0201.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0154.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0089.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0311.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0127.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0014.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0347.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0349.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0289.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0088.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0223.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0315.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0165.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0155.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0240.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0258.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0339.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0067.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0128.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0228.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0209.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0152.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0219.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0259.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0038.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0021.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0329.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0170.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0111.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Carassius_auratus/Carassius_auratus_0252.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0077.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0128.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0169.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0270.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0181.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0107.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0332.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0236.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0132.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0201.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0183.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0114.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0008.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0276.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0338.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0144.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0198.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0153.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0349.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0312.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0281.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0344.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0346.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0236.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0135.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0048.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0203.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0007.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Carassius_auratus/Carassius_auratus_0156.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0050.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0140.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0179.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0147.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0206.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0123.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0238.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0072.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0291.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0222.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0038.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0080.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0035.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0183.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0187.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0275.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0153.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0251.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Esox_lucius/Esox_lucius_0301.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0149.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0160.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0151.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0029.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0267.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Carassius_auratus/Carassius_auratus_0343.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0092.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0075.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0308.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0332.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0184.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0088.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0190.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Esox_lucius/Esox_lucius_0192.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0172.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0022.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0287.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0074.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0328.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0053.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0013.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0048.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0239.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0083.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0189.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0347.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0329.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0098.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0161.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0017.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0265.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0245.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0064.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0305.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0272.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0022.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0238.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0289.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Carassius_auratus/Carassius_auratus_0188.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0212.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0344.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0214.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0061.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0270.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0131.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Esox_lucius/Esox_lucius_0028.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0191.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0143.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0284.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Esox_lucius/Esox_lucius_0310.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0001.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0046.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0132.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Carassius_auratus/Carassius_auratus_0103.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0018.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0136.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0283.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0054.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0303.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0044.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0268.jpg,Щука,Esox_lucius,55387
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0331.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0277.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0160.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0292.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0330.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0117.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0282.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0195.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0296.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0032.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Esox_lucius/Esox_lucius_0107.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0219.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0325.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0292.jpg,Щука,Esox_lucius,55387
-fish_dataset/Carassius_auratus/Carassius_auratus_0091.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0248.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0261.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0136.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0321.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0141.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0112.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0080.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0235.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0234.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0197.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0243.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0055.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0100.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0286.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0293.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0043.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0130.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0157.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0119.jpg,Щука,Esox_lucius,55387
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0307.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0106.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0105.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0335.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0330.jpeg,Судак,Sander_lucioperca,48156
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0004.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0038.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Carassius_auratus/Carassius_auratus_0263.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0337.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0253.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0214.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Perca_fluviatilis/Perca_fluviatilis_0280.jpg,Окунь,Perca_fluviatilis,109062
-fish_dataset/Esox_lucius/Esox_lucius_0060.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0061.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0157.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0244.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0271.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Carassius_auratus/Carassius_auratus_0021.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Esox_lucius/Esox_lucius_0299.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0022.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0037.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0009.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0059.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0313.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0172.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0341.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Carassius_auratus/Carassius_auratus_0166.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Carassius_auratus/Carassius_auratus_0014.jpg,Золотая рыбка,Carassius_auratus,58612
-fish_dataset/Esox_lucius/Esox_lucius_0053.jpg,Щука,Esox_lucius,55387
-fish_dataset/Esox_lucius/Esox_lucius_0261.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0133.jpg,Судак,Sander_lucioperca,48156
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0313.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0284.jpg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Osmerus_mordax/Osmerus_mordax_0237.jpeg,Корюшка,Osmerus_mordax,179504
-fish_dataset/Esox_lucius/Esox_lucius_0311.jpg,Щука,Esox_lucius,55387
-fish_dataset/Sander_lucioperca/Sander_lucioperca_0074.jpg,Судак,Sander_lucioperca,48156
+image_path,label
+/Users/ignatio27/unik/fish_classification/data/zander/zander_294.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_005.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_148.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_102.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_258.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/perch/perch_122.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_032.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_180.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_191.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/zander/zander_126.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/perch/perch_280.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_261.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/perch/perch_011.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_180.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_175.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_227.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_117.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_281.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_106.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_089.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_083.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_220.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_286.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_236.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_280.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_244.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_174.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_202.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_067.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_237.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_185.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_113.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/pike/pike_153.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_294.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_089.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/zander/zander_222.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_009.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_023.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/perch/perch_251.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_078.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_288.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_167.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_090.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_021.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_232.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_258.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_184.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_040.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_107.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_269.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_192.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_007.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_281.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_228.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_066.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_114.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_018.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_250.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_024.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_273.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_152.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/zander/zander_184.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_299.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_184.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_277.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_156.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_033.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_173.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_067.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_150.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_188.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_043.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_239.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_253.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/pike/pike_137.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/zander/zander_114.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_261.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_170.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_110.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_281.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/perch/perch_063.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_287.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_285.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_158.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_120.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_264.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_136.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_223.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_236.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/perch/perch_079.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_105.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_053.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_094.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/zander/zander_221.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_212.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_291.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_266.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_252.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_028.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_091.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_036.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_100.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_169.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_157.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_168.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_004.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_292.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_183.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_084.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_176.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_251.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_007.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_085.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_119.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_068.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_039.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_205.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/perch/perch_077.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/perch/perch_252.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/pike/pike_072.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_192.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_130.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_231.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_297.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_244.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_251.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_139.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/perch/perch_040.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_021.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_156.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_174.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_035.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_197.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/pike/pike_055.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_085.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_176.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_250.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_120.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_246.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_253.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_033.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_292.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/perch/perch_259.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_147.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_268.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_045.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_128.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_036.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_038.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_077.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_250.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_217.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_217.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/pike/pike_173.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_115.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_190.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_161.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_058.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_114.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_129.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_180.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_013.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_210.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_174.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_193.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_054.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_063.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_127.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_072.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_153.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_291.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/perch/perch_276.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_142.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_185.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_048.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_150.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_286.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_243.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_203.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_015.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_031.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_064.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/pike/pike_187.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_008.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_149.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/pike/pike_260.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/zander/zander_134.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_240.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_159.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_064.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/perch/perch_175.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/perch/perch_183.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_041.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_090.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_214.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_279.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_081.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_069.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/pike/pike_218.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_153.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_141.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_218.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/pike/pike_252.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_196.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_142.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_061.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/zander/zander_242.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_201.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/perch/perch_116.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/zander/zander_209.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/pike/pike_080.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/perch/perch_053.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/pike/pike_150.jpg,Pike
+/Users/ignatio27/unik/fish_classification/data/goldfish/goldfish_037.jpg,Goldfish
+/Users/ignatio27/unik/fish_classification/data/perch/perch_191.jpg,Perch
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_197.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_157.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_293.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/zander/zander_219.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_101.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_080.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_167.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_083.jpg,Zander
+/Users/ignatio27/unik/fish_classification/data/smelt/smelt_194.jpg,Smelt
+/Users/ignatio27/unik/fish_classification/data/zander/zander_224.jpg,Zander

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/936d5a51da2846d282615aaf24eb076d/artifacts
+end_time: 1766490386401
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: 936d5a51da2846d282615aaf24eb076d
+run_name: resilient-duck-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766487378564
+status: 4
+tags: []
+user_id: ignatio27

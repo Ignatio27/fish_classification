@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ignatio27/unik/fish_classification/mlruns/713377973685678136/1d80f2b14cd4466eada1654b810b5b05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '713377973685678136'
+lifecycle_stage: active
+run_id: 1d80f2b14cd4466eada1654b810b5b05
+run_name: omniscient-elk-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766440748499
+status: 1
+tags: []
+user_id: ignatio27

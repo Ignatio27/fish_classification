@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "Goldfish",
+    "Perch",
+    "Pike",
+    "Smelt",
+    "Zander"
+  ],
+  "num_classes": 5,
+  "best_val_f1": 0.747687568675383,
+  "image_size": 160
+}
